@@ -1,4 +1,4 @@
-package com.example.yuseon.myapplication;
+package com.example.yuseonhan.mystudy.view;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -6,6 +6,8 @@ import android.util.AttributeSet;
 import android.util.Log;
 import android.view.View;
 import android.widget.LinearLayout;
+
+import com.example.yuseonhan.mystudy.R;
 
 /**
  * This is a simple linear layout can overlap it's children.

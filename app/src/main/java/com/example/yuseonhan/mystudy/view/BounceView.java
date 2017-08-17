@@ -1,4 +1,4 @@
-package com.example.yuseon.myapplication;
+package com.example.yuseonhan.mystudy.view;
 
 import android.animation.Keyframe;
 import android.animation.ObjectAnimator;
@@ -6,6 +6,8 @@ import android.animation.PropertyValuesHolder;
 import android.view.View;
 import android.view.animation.DecelerateInterpolator;
 import android.view.animation.OvershootInterpolator;
+
+import com.example.yuseonhan.mystudy.R;
 
 /**
  * Created by Yuseon on 2017. 3. 9..
