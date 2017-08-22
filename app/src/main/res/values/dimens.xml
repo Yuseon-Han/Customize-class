@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!-- bounce -->
     <dimen name="bouncing_distance">50dp</dimen>
-
+    <dimen name="bouncing_item_size">50dp</dimen>
 </resources>

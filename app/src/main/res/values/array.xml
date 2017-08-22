@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<integer-array name="bounce_icons">
+		<item>@drawable/button_grape</item>
+		<item>@drawable/button_lemon</item>
+		<item>@drawable/button_pear</item>
+		<item>@drawable/button_strawberry</item>
+        <item>@drawable/button_watermellon</item>
+	</integer-array>
+</resources>

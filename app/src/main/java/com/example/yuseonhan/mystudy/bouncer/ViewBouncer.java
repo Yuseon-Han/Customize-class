@@ -1,4 +1,4 @@
-package com.example.yuseonhan.mystudy.view;
+package com.example.yuseonhan.mystudy.bouncer;
 
 import android.animation.Keyframe;
 import android.animation.ObjectAnimator;
@@ -13,11 +13,11 @@ import com.example.yuseonhan.mystudy.R;
  * Created by Yuseon on 2017. 3. 9..
  */
 
-public class BounceView<T extends View> {
+public class ViewBouncer<T extends View> {
     final float bouncingDistance;
     private T view;
 
-    public BounceView(T view) {
+    public ViewBouncer(T view) {
         this.view = view;
         bouncingDistance = view.getContext().getApplicationContext().getResources().getDimensionPixelSize(R.dimen.bouncing_distance);
     }
