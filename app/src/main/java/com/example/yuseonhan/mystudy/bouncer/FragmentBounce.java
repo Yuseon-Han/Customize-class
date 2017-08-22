@@ -77,7 +77,7 @@ public class FragmentBounce extends BaseFragment {
             bounceViews.add(new ViewBouncer(imageView));
         }
 
-        for (int i = 0; i < listCount; i++) {
+        for (int i = 0; i < listCount/2; i++) {
             ImageView imageView = new ImageView(context);
             imageView.setImageDrawable(drawables.getDrawable(i % drawables.length()));
 

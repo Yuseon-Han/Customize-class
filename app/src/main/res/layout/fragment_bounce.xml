@@ -36,7 +36,7 @@
         <com.example.yuseonhan.mystudy.bouncer.OverLapLinearLayout
             android:id="@+id/linear_layout"
             android:layout_width="wrap_content"
-            android:layout_height="150dp"
+            android:layout_height="180dp"
             android:layout_gravity="center_vertical"
             android:orientation="horizontal"
             overlap:firstUp="true"
