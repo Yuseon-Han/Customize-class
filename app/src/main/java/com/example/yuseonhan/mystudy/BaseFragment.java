@@ -13,7 +13,7 @@ public class BaseFragment extends Fragment {
     protected Unbinder unbinder;
     protected View fragmentView;
 
-    // test comment 2
+    // test comment
 
     @Override
     public void onDestroyView() {
